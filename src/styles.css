@@ -36,7 +36,7 @@ nav ul {
 }
 
 nav ul li a {
-  color: white;
+  color: #E6A1D3;
   font-weight: bold;
   padding: 0.5rem;
 }
@@ -70,7 +70,7 @@ main {
 
 footer {
   background-color: #333;
-  color: white;
+  color: #E66227;
   text-align: center;
   padding: 1rem;
   margin-top: 2rem;
